@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+ol button{
+  padding: 2px;
+ 
+  margin: 5px;
+}
+.addtk{
+  background-color: rgb(11, 201, 11);
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 13px;
+  margin:10px;
+
+}
+.todo{
+  text-align: center;
+  align-items: center;
+}
+ol{
+  padding:0;
+}
+.del{
+  background-color: red;
+  font-size: 20px;
+  border-radius: 5px;
+}
+li{
+  font-size: 2rem;
+  font-weight:bold;
+  padding:15px;
+  background-color: hsl(0, 0%, 97%);
+  margin-bottom: 10px;
+  border-radius: 5px;
+ align-content: center;
+
+}
+input[type="text"]{
+  font-size: 1.6rem;
+  padding:10px; 
+  border-radius: 20px;
+}
+h1{
+  font-size: 5em;
+}
+button{
+  cursor:pointer;
+}
